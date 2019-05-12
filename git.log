@@ -1,0 +1,112 @@
+commit b40a7472676be222083991935e84f89a36dcba57
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Tue Apr 16 11:57:50 2019 -0500
+
+    Fixed block loop parameters in parent and added idle time print out
+
+commit af89ac910301f15f7686331613f5eb14af245c41
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Thu Apr 11 17:01:04 2019 -0500
+
+    Added the averages after the sceduler terminates
+    and created a readme
+
+commit 9fb05937613867131a5230bf9b3cf9a694b7c1f0
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Thu Apr 11 14:51:37 2019 -0500
+
+    More refactoring and adjust time constants
+
+commit a9972c4b747a9d51921febe496fdf94e5478cbc3
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Thu Apr 11 02:05:51 2019 -0500
+
+    Refactored some parts of the scheduling function
+    Need to print the required averages
+
+commit 74061083d4d61507bb1ead8ef110d81ae496ee2b
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Tue Apr 9 22:30:08 2019 -0500
+
+    fixed exit parameters
+    Scheduler now only stops after all 100 execs have terminated
+
+commit 984841f183aa00541116b8d11285dc9d9b781f0f
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Tue Apr 9 12:28:54 2019 -0500
+
+    Created blocked queue
+    Need to fix issue where oss gets hung up waiting on a child indefinitely
+    Need to fix exit loop parameters
+
+commit e9a5e04789d39e064170572817a70df903eec340
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Mon Apr 8 15:08:00 2019 -0500
+
+    I have handled the conditions of when the processes is terminated
+    or uses up all time.
+    Need to fix error of nanoseconds being written to log file as negative number.
+
+commit 5b7efd89a92573ab2394897dcc24ff57907dc91d
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Sun Apr 7 20:17:38 2019 -0500
+
+    Can now succesfully send messages to specific
+    processes based on pid(not simulated pid)
+
+commit b7a8b7192e95045ea24b350a7fcef3091433a10e
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Sun Apr 7 18:43:37 2019 -0500
+
+    Need to fix issue where the children
+    aren't being unblocked on message send
+
+commit b19696eba98c4ad7f1d2939755cb6dd23bba0420
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Sun Apr 7 08:14:02 2019 -0500
+
+    Program can now create processes of
+    realtime or user class
+
+commit 15e3a12eee823873adcba19217a8ba191460d5a3
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Sat Apr 6 17:51:14 2019 -0500
+
+    Started working on scheduling and assigning
+    process to queues
+
+commit 003125e62af101c3187fe4828beacf696c65f293
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Sat Apr 6 15:19:39 2019 -0500
+
+    Put clock data in same shared mem segment
+    as process control block
+
+commit 8d5c4e9abd0d63d251da0f90eaed1b46b2c4f5f3
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Sat Apr 6 14:45:26 2019 -0500
+
+    Segmentation fault in exec loop
+    Setup time quantum for queues &
+    for creating a new execs
+
+commit 1c61accbaf7912736896ec4798b5400bf8e6c873
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Sat Apr 6 12:55:35 2019 -0500
+
+    add struct for porcess control block/more refactoring
+    Starting function to schedule execs
+
+commit 6de93e34b33170ef92a2365a53a8b7611da6a500
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Sat Apr 6 10:24:07 2019 -0500
+
+    Commit #2
+    Refactoring code
+
+commit 0a039ea08dce9602102fe88ff3ec2fe0c0255dcf
+Author: samuel woodruff <woodruff@hoare7.cs.umsl.edu>
+Date:   Fri Apr 5 16:00:12 2019 -0500
+
+    Commit #1
+    Setup clo1ck, queue, and message queue

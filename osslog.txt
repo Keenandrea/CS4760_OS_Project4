@@ -1,0 +1,515 @@
+OSS: Generating process with PID 0 and putting it in queue 1 at time 0:100000
+OSS: Dispatching process with PID 0 from queue 1 at time 0:100000 
+OSS: Terminating process with PID 0 after 0 nanoseconds
+OSS: Generating process with PID 0 and putting it in queue 1 at time 1:200084
+OSS: Dispatching process with PID 0 from queue 1 at time 1:200084 
+OSS: Moving process with pid 0 from queue 1 to queue 2
+OSS: Dispatching process with PID 0 from queue 2 at time 1:20300187 
+OSS: Moving process with pid 0 from queue 2 to queue 3
+OSS: Dispatching process with PID 0 from queue 3 at time 1:50400311 
+OSS: Terminating process with PID 0 after 0 nanoseconds
+OSS: Generating process with PID 0 and putting it in queue 0 at time 2:200432
+OSS: Dispatching process with PID 0 from queue 0 at time 2:200432 
+OSS: Terminating process with PID 0 after 0 nanoseconds
+OSS: Generating process with PID 0 and putting it in queue 1 at time 3:300501
+OSS: Dispatching process with PID 0 from queue 1 at time 3:300501 
+OSS: Moving process with pid 0 from queue 1 to queue 2
+OSS: Generating process with PID 1 and putting it in queue 1 at time 3:20400556
+OSS: Dispatching process with PID 1 from queue 1 at time 3:20400556 
+OSS: Process with PID 1 has been preempted after 338983 nanoseconds
+OSS: Dispatching process with PID 0 from queue 2 at time 3:20839616 
+OSS: Moving process with pid 0 from queue 2 to queue 3
+OSS: Dispatching process with PID 0 from queue 3 at time 3:50939739 
+OSS: Terminating process with PID 0 after 0 nanoseconds
+OSS: Generating process with PID 0 and putting it in queue 1 at time 4:20439800
+OSS: Dispatching process with PID 0 from queue 1 at time 4:20439800 
+OSS: Moving process with pid 0 from queue 1 to queue 2
+OSS: Generating process with PID 2 and putting it in queue 1 at time 4:40539906
+OSS: Dispatching process with PID 2 from queue 1 at time 4:40539906 
+OSS: Moving process with pid 2 from queue 1 to queue 2
+OSS: Dispatching process with PID 0 from queue 2 at time 4:60640020 
+OSS: Moving process with pid 0 from queue 2 to queue 3
+OSS: Dispatching process with PID 2 from queue 2 at time 4:90740164 
+OSS: Terminating process with PID 2 after 0 nanoseconds
+OSS: Dispatching process with PID 0 from queue 3 at time 4:90840263 
+OSS: Moving process with pid 0 from queue 3 to queue 3
+OSS: Dispatching process with PID 0 from queue 3 at time 4:130940411 
+OSS: Moving process with pid 0 from queue 3 to queue 3
+OSS: Dispatching process with PID 0 from queue 3 at time 4:171040548 
+OSS: Moving process with pid 0 from queue 3 to queue 3
+OSS: Dispatching process with PID 0 from queue 3 at time 4:211140598 
+OSS: Moving process with pid 0 from queue 3 to queue 3
+OSS: Dispatching process with PID 0 from queue 3 at time 4:251240664 
+OSS: Process with PID 0 has been preempted after 3076923 nanoseconds
+OSS: Unblocking process with PID 1 at time 5:20517677
+OSS: Dispatching process with PID 1 from queue 1 at time 5:20617677 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Generating process with PID 2 and putting it in queue 0 at time 5:40717754
+OSS: Dispatching process with PID 2 from queue 0 at time 5:40717754 
+OSS: Terminating process with PID 2 after 0 nanoseconds
+OSS: Dispatching process with PID 1 from queue 2 at time 5:40817897 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 6:40717973
+OSS: Dispatching process with PID 1 from queue 1 at time 6:40717973 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 0 at time 6:40818108
+OSS: Dispatching process with PID 1 from queue 0 at time 6:40818108 
+OSS: Moving process with pid 1 from queue 0 to queue 0
+OSS: Dispatching process with PID 1 from queue 0 at time 6:50918211 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 7:40918349
+OSS: Dispatching process with PID 1 from queue 1 at time 7:40918349 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Dispatching process with PID 1 from queue 2 at time 7:61018486 
+OSS: Moving process with pid 1 from queue 2 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 7:91118587 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 8:40918708
+OSS: Dispatching process with PID 1 from queue 1 at time 8:40918708 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 8:41018828
+OSS: Dispatching process with PID 1 from queue 1 at time 8:41018828 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Generating process with PID 2 and putting it in queue 1 at time 8:61118970
+OSS: Dispatching process with PID 2 from queue 1 at time 8:61118970 
+OSS: Process with PID 2 has been preempted after 540540 nanoseconds
+OSS: Dispatching process with PID 1 from queue 2 at time 8:61759649 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 9:61159756
+OSS: Dispatching process with PID 1 from queue 1 at time 9:61159756 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Unblocking process with PID 0 at time 9:251359865
+OSS: Dispatching process with PID 0 from queue 1 at time 9:251459865 
+OSS: Moving process with pid 0 from queue 1 to queue 2
+OSS: Dispatching process with PID 0 from queue 2 at time 9:271559921 
+OSS: Moving process with pid 0 from queue 2 to queue 3
+OSS: Dispatching process with PID 0 from queue 3 at time 9:301660008 
+OSS: Process with PID 0 has been preempted after 10000000 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 0 at time 10:61160155
+OSS: Dispatching process with PID 1 from queue 0 at time 10:61160155 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 10:61260290
+OSS: Dispatching process with PID 1 from queue 1 at time 10:61260290 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 11:61360423
+OSS: Dispatching process with PID 1 from queue 1 at time 11:61360423 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Unblocking process with PID 2 at time 12:61360557
+OSS: Generating process with PID 1 and putting it in queue 1 at time 12:61460557
+OSS: Dispatching process with PID 2 from queue 1 at time 12:61460557 
+OSS: Moving process with pid 2 from queue 1 to queue 2
+OSS: Dispatching process with PID 1 from queue 1 at time 12:81560676 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Dispatching process with PID 2 from queue 2 at time 12:101660752 
+OSS: Terminating process with PID 2 after 0 nanoseconds
+OSS: Dispatching process with PID 1 from queue 2 at time 12:101760866 
+OSS: Moving process with pid 1 from queue 2 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 12:131860978 
+OSS: Moving process with pid 1 from queue 3 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 12:171961055 
+OSS: Moving process with pid 1 from queue 3 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 12:212061170 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Unblocking process with PID 0 at time 12:301861253
+OSS: Dispatching process with PID 0 from queue 1 at time 12:301961253 
+OSS: Process with PID 0 has been preempted after 555555 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 13:61516926
+OSS: Dispatching process with PID 1 from queue 1 at time 13:61516926 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Generating process with PID 2 and putting it in queue 1 at time 13:81617034
+OSS: Dispatching process with PID 2 from queue 1 at time 13:81617034 
+OSS: Terminating process with PID 2 after 0 nanoseconds
+OSS: Generating process with PID 2 and putting it in queue 1 at time 13:81717105
+OSS: Dispatching process with PID 2 from queue 1 at time 13:81717105 
+OSS: Moving process with pid 2 from queue 1 to queue 2
+OSS: Dispatching process with PID 1 from queue 2 at time 13:101817233 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Dispatching process with PID 2 from queue 2 at time 13:101917328 
+OSS: Terminating process with PID 2 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 14:81717474
+OSS: Dispatching process with PID 1 from queue 1 at time 14:81717474 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Generating process with PID 2 and putting it in queue 1 at time 14:101817569
+OSS: Dispatching process with PID 2 from queue 1 at time 14:101817569 
+OSS: Moving process with pid 2 from queue 1 to queue 2
+OSS: Generating process with PID 3 and putting it in queue 1 at time 14:121917646
+OSS: Dispatching process with PID 3 from queue 1 at time 14:121917646 
+OSS: Moving process with pid 3 from queue 1 to queue 2
+OSS: Generating process with PID 4 and putting it in queue 1 at time 14:142017706
+OSS: Dispatching process with PID 4 from queue 1 at time 14:142017706 
+OSS: Moving process with pid 4 from queue 1 to queue 2
+OSS: Generating process with PID 5 and putting it in queue 0 at time 14:162117795
+OSS: Dispatching process with PID 5 from queue 0 at time 14:162117795 
+OSS: Moving process with pid 5 from queue 0 to queue 0
+OSS: Dispatching process with PID 5 from queue 0 at time 14:172217852 
+OSS: Process with PID 5 has been preempted after 121951 nanoseconds
+OSS: Dispatching process with PID 1 from queue 2 at time 14:172439865 
+OSS: Moving process with pid 1 from queue 2 to queue 3
+OSS: Dispatching process with PID 2 from queue 2 at time 14:202539944 
+OSS: Terminating process with PID 2 after 0 nanoseconds
+OSS: Dispatching process with PID 3 from queue 2 at time 14:202640062 
+OSS: Terminating process with PID 3 after 0 nanoseconds
+OSS: Dispatching process with PID 4 from queue 2 at time 14:202740172 
+OSS: Moving process with pid 4 from queue 2 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 14:232840224 
+OSS: Moving process with pid 1 from queue 3 to queue 3
+OSS: Dispatching process with PID 4 from queue 3 at time 14:272940287 
+OSS: Terminating process with PID 4 after 0 nanoseconds
+OSS: Dispatching process with PID 1 from queue 3 at time 14:273040349 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 15:162140426
+OSS: Dispatching process with PID 1 from queue 1 at time 15:162140426 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Dispatching process with PID 1 from queue 2 at time 15:182240529 
+OSS: Moving process with pid 1 from queue 2 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 15:212340616 
+OSS: Process with PID 1 has been preempted after 512820 nanoseconds
+OSS: Generating process with PID 2 and putting it in queue 1 at time 16:162153517
+OSS: Dispatching process with PID 2 from queue 1 at time 16:162153517 
+OSS: Moving process with pid 2 from queue 1 to queue 2
+OSS: Generating process with PID 3 and putting it in queue 1 at time 16:182253640
+OSS: Dispatching process with PID 3 from queue 1 at time 16:182253640 
+OSS: Moving process with pid 3 from queue 1 to queue 2
+OSS: Generating process with PID 4 and putting it in queue 1 at time 16:202353693
+OSS: Dispatching process with PID 4 from queue 1 at time 16:202353693 
+OSS: Terminating process with PID 4 after 0 nanoseconds
+OSS: Generating process with PID 4 and putting it in queue 1 at time 16:202453803
+OSS: Dispatching process with PID 4 from queue 1 at time 16:202453803 
+OSS: Moving process with pid 4 from queue 1 to queue 2
+OSS: Generating process with PID 6 and putting it in queue 1 at time 16:222553920
+OSS: Dispatching process with PID 6 from queue 1 at time 16:222553920 
+OSS: Moving process with pid 6 from queue 1 to queue 2
+OSS: Generating process with PID 7 and putting it in queue 1 at time 16:242653986
+OSS: Dispatching process with PID 7 from queue 1 at time 16:242653986 
+OSS: Moving process with pid 7 from queue 1 to queue 2
+OSS: Dispatching process with PID 2 from queue 2 at time 16:262754135 
+OSS: Terminating process with PID 2 after 0 nanoseconds
+OSS: Dispatching process with PID 3 from queue 2 at time 16:262854214 
+OSS: Process with PID 3 has been preempted after 5000000 nanoseconds
+OSS: Dispatching process with PID 4 from queue 2 at time 16:267954289 
+OSS: Terminating process with PID 4 after 0 nanoseconds
+OSS: Dispatching process with PID 6 from queue 2 at time 16:268054347 
+OSS: Moving process with pid 6 from queue 2 to queue 3
+OSS: Dispatching process with PID 7 from queue 2 at time 16:298154454 
+OSS: Process with PID 7 has been preempted after 365853 nanoseconds
+OSS: Dispatching process with PID 6 from queue 3 at time 16:298620388 
+OSS: Terminating process with PID 6 after 0 nanoseconds
+OSS: Unblocking process with PID 1 at time 17:212420535
+OSS: Dispatching process with PID 1 from queue 1 at time 17:212520535 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Dispatching process with PID 1 from queue 2 at time 17:232620673 
+OSS: Moving process with pid 1 from queue 2 to queue 3
+OSS: Generating process with PID 2 and putting it in queue 1 at time 17:262720804
+OSS: Dispatching process with PID 2 from queue 1 at time 17:262720804 
+OSS: Terminating process with PID 2 after 0 nanoseconds
+OSS: Generating process with PID 2 and putting it in queue 1 at time 17:262820924
+OSS: Dispatching process with PID 2 from queue 1 at time 17:262820924 
+OSS: Process with PID 2 has been preempted after 625000 nanoseconds
+OSS: Generating process with PID 4 and putting it in queue 1 at time 17:263545988
+OSS: Dispatching process with PID 4 from queue 1 at time 17:263545988 
+OSS: Terminating process with PID 4 after 0 nanoseconds
+OSS: Generating process with PID 4 and putting it in queue 1 at time 17:263646043
+OSS: Dispatching process with PID 4 from queue 1 at time 17:263646043 
+OSS: Terminating process with PID 4 after 0 nanoseconds
+OSS: Dispatching process with PID 1 from queue 3 at time 17:263746094 
+OSS: Moving process with pid 1 from queue 3 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 17:303846213 
+OSS: Unblocking process with PID 0 at time 17:303846335
+OSS: Process with PID 1 has been preempted after 1333333 nanoseconds
+OSS: Dispatching process with PID 0 from queue 1 at time 17:305279668 
+OSS: Unblocking process with PID 7 at time 17:305279788
+OSS: Moving process with pid 0 from queue 1 to queue 2
+OSS: Dispatching process with PID 7 from queue 1 at time 17:325379788 
+OSS: Terminating process with PID 7 after 0 nanoseconds
+OSS: Dispatching process with PID 0 from queue 2 at time 17:325479895 
+OSS: Moving process with pid 0 from queue 2 to queue 3
+OSS: Dispatching process with PID 0 from queue 3 at time 17:355580019 
+OSS: Terminating process with PID 0 after 0 nanoseconds
+OSS: Unblocking process with PID 5 at time 18:172380121
+OSS: Dispatching process with PID 5 from queue 0 at time 18:172480121 
+OSS: Process with PID 5 has been preempted after 135135 nanoseconds
+OSS: Generating process with PID 0 and putting it in queue 1 at time 18:263715362
+OSS: Dispatching process with PID 0 from queue 1 at time 18:263715362 
+OSS: Moving process with pid 0 from queue 1 to queue 2
+OSS: Generating process with PID 4 and putting it in queue 0 at time 18:283815425
+OSS: Dispatching process with PID 4 from queue 0 at time 18:283815425 
+OSS: Terminating process with PID 4 after 0 nanoseconds
+OSS: Generating process with PID 4 and putting it in queue 1 at time 18:283915517
+OSS: Dispatching process with PID 4 from queue 1 at time 18:283915517 
+OSS: Moving process with pid 4 from queue 1 to queue 2
+OSS: Dispatching process with PID 0 from queue 2 at time 18:304015572 
+OSS: Unblocking process with PID 1 at time 18:304015717
+OSS: Moving process with pid 0 from queue 2 to queue 3
+OSS: Dispatching process with PID 1 from queue 1 at time 18:334115717 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Dispatching process with PID 4 from queue 2 at time 18:334215787 
+OSS: Moving process with pid 4 from queue 2 to queue 3
+OSS: Dispatching process with PID 0 from queue 3 at time 18:364315920 
+OSS: Process with PID 0 has been preempted after 430107 nanoseconds
+OSS: Dispatching process with PID 4 from queue 3 at time 18:364846087 
+OSS: Terminating process with PID 4 after 0 nanoseconds
+OSS: Unblocking process with PID 5 at time 19:172646199
+OSS: Dispatching process with PID 5 from queue 0 at time 19:172746199 
+OSS: Moving process with pid 5 from queue 0 to queue 0
+OSS: Dispatching process with PID 5 from queue 0 at time 19:182846297 
+OSS: Terminating process with PID 5 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 19:283946384
+OSS: Dispatching process with PID 1 from queue 1 at time 19:283946384 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Dispatching process with PID 1 from queue 2 at time 19:304046525 
+OSS: Process with PID 1 has been preempted after 1578947 nanoseconds
+OSS: Generating process with PID 4 and putting it in queue 1 at time 20:284025577
+OSS: Dispatching process with PID 4 from queue 1 at time 20:284025577 
+OSS: Terminating process with PID 4 after 0 nanoseconds
+OSS: Generating process with PID 4 and putting it in queue 0 at time 20:284125632
+OSS: Dispatching process with PID 4 from queue 0 at time 20:284125632 
+OSS: Moving process with pid 4 from queue 0 to queue 0
+OSS: Generating process with PID 5 and putting it in queue 0 at time 20:294225776
+OSS: Dispatching process with PID 4 from queue 0 at time 20:294225776 
+OSS: Moving process with pid 4 from queue 0 to queue 0
+OSS: Generating process with PID 6 and putting it in queue 1 at time 20:304325893
+OSS: Dispatching process with PID 5 from queue 0 at time 20:304325893 
+OSS: Unblocking process with PID 1 at time 20:304326023
+OSS: Moving process with pid 5 from queue 0 to queue 0
+OSS: Dispatching process with PID 4 from queue 0 at time 20:314426023 
+OSS: Moving process with pid 4 from queue 0 to queue 0
+OSS: Dispatching process with PID 5 from queue 0 at time 20:324526147 
+OSS: Moving process with pid 5 from queue 0 to queue 0
+OSS: Dispatching process with PID 4 from queue 0 at time 20:334626206 
+OSS: Moving process with pid 4 from queue 0 to queue 0
+OSS: Dispatching process with PID 5 from queue 0 at time 20:344726294 
+OSS: Terminating process with PID 5 after 0 nanoseconds
+OSS: Dispatching process with PID 4 from queue 0 at time 20:344826365 
+OSS: Moving process with pid 4 from queue 0 to queue 0
+OSS: Dispatching process with PID 4 from queue 0 at time 20:354926444 
+OSS: Moving process with pid 4 from queue 0 to queue 0
+OSS: Dispatching process with PID 4 from queue 0 at time 20:365026567 
+OSS: Process with PID 4 has been preempted after 357142 nanoseconds
+OSS: Dispatching process with PID 6 from queue 1 at time 20:365483842 
+OSS: Terminating process with PID 6 after 0 nanoseconds
+OSS: Dispatching process with PID 1 from queue 1 at time 20:365583984 
+OSS: Process with PID 1 has been preempted after 222222 nanoseconds
+OSS: Unblocking process with PID 3 at time 21:294006277
+OSS: Dispatching process with PID 3 from queue 1 at time 21:294106277 
+OSS: Terminating process with PID 3 after 0 nanoseconds
+OSS: Generating process with PID 3 and putting it in queue 1 at time 21:304406399
+OSS: Dispatching process with PID 3 from queue 1 at time 21:304406399 
+OSS: Moving process with pid 3 from queue 1 to queue 2
+OSS: Dispatching process with PID 3 from queue 2 at time 21:324506452 
+OSS: Moving process with pid 3 from queue 2 to queue 3
+OSS: Dispatching process with PID 3 from queue 3 at time 21:354606579 
+OSS: Moving process with pid 3 from queue 3 to queue 3
+OSS: Dispatching process with PID 3 from queue 3 at time 21:394706681 
+OSS: Terminating process with PID 3 after 0 nanoseconds
+OSS: Unblocking process with PID 2 at time 22:262906797
+OSS: Dispatching process with PID 2 from queue 1 at time 22:263006797 
+OSS: Moving process with pid 2 from queue 1 to queue 2
+OSS: Dispatching process with PID 2 from queue 2 at time 22:283106901 
+OSS: Moving process with pid 2 from queue 2 to queue 3
+OSS: Generating process with PID 3 and putting it in queue 1 at time 22:313206960
+OSS: Dispatching process with PID 3 from queue 1 at time 22:313206960 
+OSS: Process with PID 3 has been preempted after 263157 nanoseconds
+OSS: Generating process with PID 5 and putting it in queue 0 at time 22:313570217
+OSS: Dispatching process with PID 5 from queue 0 at time 22:313570217 
+OSS: Moving process with pid 5 from queue 0 to queue 0
+OSS: Generating process with PID 6 and putting it in queue 1 at time 22:323670276
+OSS: Dispatching process with PID 5 from queue 0 at time 22:323670276 
+OSS: Process with PID 5 has been preempted after 136986 nanoseconds
+OSS: Generating process with PID 7 and putting it in queue 1 at time 22:323907348
+OSS: Dispatching process with PID 6 from queue 1 at time 22:323907348 
+OSS: Process with PID 6 has been preempted after 240963 nanoseconds
+OSS: Generating process with PID 8 and putting it in queue 1 at time 22:324248378
+OSS: Dispatching process with PID 7 from queue 1 at time 22:324248378 
+OSS: Moving process with pid 7 from queue 1 to queue 2
+OSS: Dispatching process with PID 8 from queue 1 at time 22:344348481 
+OSS: Moving process with pid 8 from queue 1 to queue 2
+OSS: Dispatching process with PID 7 from queue 2 at time 22:364448551 
+OSS: Process with PID 7 has been preempted after 1250000 nanoseconds
+OSS: Dispatching process with PID 8 from queue 2 at time 22:365798626 
+OSS: Unblocking process with PID 0 at time 22:365798740
+OSS: Moving process with pid 8 from queue 2 to queue 3
+OSS: Dispatching process with PID 0 from queue 1 at time 22:395898740 
+OSS: Terminating process with PID 0 after 0 nanoseconds
+OSS: Dispatching process with PID 2 from queue 3 at time 22:395998885 
+OSS: Unblocking process with PID 1 at time 22:395999012
+OSS: Moving process with pid 2 from queue 3 to queue 3
+OSS: Dispatching process with PID 1 from queue 1 at time 22:436099012 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Dispatching process with PID 8 from queue 3 at time 22:436199129 
+OSS: Unblocking process with PID 4 at time 22:436199203
+OSS: Moving process with pid 8 from queue 3 to queue 3
+OSS: Dispatching process with PID 4 from queue 0 at time 22:476299203 
+OSS: Moving process with pid 4 from queue 0 to queue 0
+OSS: Dispatching process with PID 4 from queue 0 at time 22:486399334 
+OSS: Terminating process with PID 4 after 0 nanoseconds
+OSS: Dispatching process with PID 2 from queue 3 at time 22:486499470 
+OSS: Process with PID 2 has been preempted after 714285 nanoseconds
+OSS: Dispatching process with PID 8 from queue 3 at time 22:487313884 
+OSS: Moving process with pid 8 from queue 3 to queue 3
+OSS: Dispatching process with PID 8 from queue 3 at time 22:527414024 
+OSS: Terminating process with PID 8 after 0 nanoseconds
+OSS: Unblocking process with PID 5 at time 23:323814116
+OSS: Dispatching process with PID 5 from queue 0 at time 23:323914116 
+OSS: Terminating process with PID 5 after 0 nanoseconds
+OSS: Generating process with PID 0 and putting it in queue 0 at time 23:324314228
+OSS: Dispatching process with PID 0 from queue 0 at time 23:324314228 
+OSS: Process with PID 0 has been preempted after 222222 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 23:324636572
+OSS: Dispatching process with PID 1 from queue 1 at time 23:324636572 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Generating process with PID 4 and putting it in queue 1 at time 23:344736698
+OSS: Dispatching process with PID 4 from queue 1 at time 23:344736698 
+OSS: Moving process with pid 4 from queue 1 to queue 2
+OSS: Dispatching process with PID 1 from queue 2 at time 23:364836763 
+OSS: Moving process with pid 1 from queue 2 to queue 3
+OSS: Dispatching process with PID 4 from queue 2 at time 23:394936904 
+OSS: Moving process with pid 4 from queue 2 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 23:425036996 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Dispatching process with PID 4 from queue 3 at time 23:425137122 
+OSS: Terminating process with PID 4 after 0 nanoseconds
+OSS: Generating process with PID 1 and putting it in queue 1 at time 24:344737215
+OSS: Dispatching process with PID 1 from queue 1 at time 24:344737215 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Dispatching process with PID 1 from queue 2 at time 24:364837337 
+OSS: Moving process with pid 1 from queue 2 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 24:394937432 
+OSS: Moving process with pid 1 from queue 3 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 24:435037492 
+OSS: Moving process with pid 1 from queue 3 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 24:475137543 
+OSS: Moving process with pid 1 from queue 3 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 24:515237658 
+OSS: Process with PID 1 has been preempted after 588235 nanoseconds
+OSS: Unblocking process with PID 3 at time 25:313225978
+OSS: Dispatching process with PID 3 from queue 1 at time 25:313325978 
+OSS: Moving process with pid 3 from queue 1 to queue 2
+OSS: Dispatching process with PID 3 from queue 2 at time 25:333426110 
+OSS: Moving process with pid 3 from queue 2 to queue 3
+OSS: Generating process with PID 4 and putting it in queue 1 at time 25:363526211
+OSS: Dispatching process with PID 4 from queue 1 at time 25:363526211 
+OSS: Process with PID 4 has been preempted after 454545 nanoseconds
+OSS: Generating process with PID 5 and putting it in queue 1 at time 25:364080886
+OSS: Dispatching process with PID 5 from queue 1 at time 25:364080886 
+OSS: Unblocking process with PID 6 at time 25:364080951
+OSS: Terminating process with PID 5 after 0 nanoseconds
+OSS: Dispatching process with PID 6 from queue 1 at time 25:364180951 
+OSS: Terminating process with PID 6 after 0 nanoseconds
+OSS: Dispatching process with PID 3 from queue 3 at time 25:364281098 
+OSS: Process with PID 3 has been preempted after 40000000 nanoseconds
+OSS: Unblocking process with PID 7 at time 25:404381198
+OSS: Dispatching process with PID 7 from queue 1 at time 25:404481198 
+OSS: Moving process with pid 7 from queue 1 to queue 2
+OSS: Dispatching process with PID 7 from queue 2 at time 25:424581292 
+OSS: Terminating process with PID 7 after 0 nanoseconds
+OSS: Unblocking process with PID 2 at time 25:788481367
+OSS: Dispatching process with PID 2 from queue 1 at time 25:788581367 
+OSS: Process with PID 2 has been preempted after 1111111 nanoseconds
+OSS: Unblocking process with PID 0 at time 26:324492614
+OSS: Dispatching process with PID 0 from queue 0 at time 26:324592614 
+OSS: Moving process with pid 0 from queue 0 to queue 0
+OSS: Dispatching process with PID 0 from queue 0 at time 26:334692673 
+OSS: Process with PID 0 has been preempted after 156250 nanoseconds
+OSS: Unblocking process with PID 4 at time 26:363549023
+OSS: Dispatching process with PID 4 from queue 1 at time 26:363649023 
+OSS: Moving process with pid 4 from queue 1 to queue 2
+OSS: Generating process with PID 5 and putting it in queue 1 at time 26:383749126
+OSS: Dispatching process with PID 5 from queue 1 at time 26:383749126 
+OSS: Moving process with pid 5 from queue 1 to queue 2
+OSS: Generating process with PID 6 and putting it in queue 0 at time 26:403849271
+OSS: Dispatching process with PID 6 from queue 0 at time 26:403849271 
+OSS: Process with PID 6 has been preempted after 2500000 nanoseconds
+OSS: Dispatching process with PID 4 from queue 2 at time 26:406449384 
+OSS: Moving process with pid 4 from queue 2 to queue 3
+OSS: Dispatching process with PID 5 from queue 2 at time 26:436549489 
+OSS: Moving process with pid 5 from queue 2 to queue 3
+OSS: Dispatching process with PID 4 from queue 3 at time 26:466649560 
+OSS: Moving process with pid 4 from queue 3 to queue 3
+OSS: Dispatching process with PID 5 from queue 3 at time 26:506749675 
+OSS: Moving process with pid 5 from queue 3 to queue 3
+OSS: Dispatching process with PID 4 from queue 3 at time 26:546849797 
+OSS: Process with PID 4 has been preempted after 909090 nanoseconds
+OSS: Dispatching process with PID 5 from queue 3 at time 26:547858945 
+OSS: Moving process with pid 5 from queue 3 to queue 3
+OSS: Dispatching process with PID 5 from queue 3 at time 26:587959042 
+OSS: Terminating process with PID 5 after 0 nanoseconds
+OSS: Generating process with PID 5 and putting it in queue 1 at time 27:403859115
+OSS: Dispatching process with PID 5 from queue 1 at time 27:403859115 
+OSS: Moving process with pid 5 from queue 1 to queue 2
+OSS: Generating process with PID 7 and putting it in queue 1 at time 27:423959172
+OSS: Dispatching process with PID 7 from queue 1 at time 27:423959172 
+OSS: Moving process with pid 7 from queue 1 to queue 2
+OSS: Dispatching process with PID 5 from queue 2 at time 27:444059301 
+OSS: Moving process with pid 5 from queue 2 to queue 3
+OSS: Dispatching process with PID 7 from queue 2 at time 27:474159411 
+OSS: Process with PID 7 has been preempted after 714285 nanoseconds
+OSS: Dispatching process with PID 5 from queue 3 at time 27:474973792 
+OSS: Moving process with pid 5 from queue 3 to queue 3
+OSS: Dispatching process with PID 5 from queue 3 at time 27:515073917 
+OSS: Moving process with pid 5 from queue 3 to queue 3
+OSS: Dispatching process with PID 5 from queue 3 at time 27:555174053 
+OSS: Terminating process with PID 5 after 0 nanoseconds
+OSS: Unblocking process with PID 1 at time 27:555274187
+OSS: Dispatching process with PID 1 from queue 1 at time 27:555374187 
+OSS: Moving process with pid 1 from queue 1 to queue 2
+OSS: Dispatching process with PID 1 from queue 2 at time 27:575474273 
+OSS: Moving process with pid 1 from queue 2 to queue 3
+OSS: Dispatching process with PID 1 from queue 3 at time 27:605574411 
+OSS: Terminating process with PID 1 after 0 nanoseconds
+OSS: Unblocking process with PID 4 at time 27:671674498
+OSS: Dispatching process with PID 4 from queue 1 at time 27:671774498 
+OSS: Moving process with pid 4 from queue 1 to queue 2
+OSS: Dispatching process with PID 4 from queue 2 at time 27:691874636 
+OSS: Process with PID 4 has been preempted after 375000 nanoseconds
+OSS: Unblocking process with PID 6 at time 28:403849718
+OSS: Dispatching process with PID 6 from queue 0 at time 28:403949718 
+OSS: Moving process with pid 6 from queue 0 to queue 0
+OSS: Dispatching process with PID 6 from queue 0 at time 28:414049786 
+OSS: Moving process with pid 6 from queue 0 to queue 0
+OSS: Generating process with PID 1 and putting it in queue 1 at time 28:424149872
+OSS: Dispatching process with PID 6 from queue 0 at time 28:424149872 
+OSS: Moving process with pid 6 from queue 0 to queue 0
+OSS: Dispatching process with PID 6 from queue 0 at time 28:434250012 
+OSS: Moving process with pid 6 from queue 0 to queue 0
+OSS: Dispatching process with PID 6 from queue 0 at time 28:444350098 
+OSS: Process with PID 6 has been preempted after 136986 nanoseconds
+OSS: Dispatching process with PID 1 from queue 1 at time 28:444587206 
+OSS: Process with PID 1 has been preempted after 555555 nanoseconds
+OSS: Unblocking process with PID 3 at time 29:364342866
+OSS: Dispatching process with PID 3 from queue 1 at time 29:364442866 
+OSS: Process with PID 3 has been preempted after 909090 nanoseconds
+OSS: Generating process with PID 5 and putting it in queue 1 at time 29:424152066
+OSS: Dispatching process with PID 5 from queue 1 at time 29:424152066 
+OSS: Process with PID 5 has been preempted after 210526 nanoseconds
+OSS: Unblocking process with PID 7 at time 29:668662701
+OSS: Dispatching process with PID 7 from queue 1 at time 29:668762701 
+OSS: Moving process with pid 7 from queue 1 to queue 2
+OSS: Dispatching process with PID 7 from queue 2 at time 29:688862830 
+OSS: Moving process with pid 7 from queue 2 to queue 3
+OSS: Dispatching process with PID 7 from queue 3 at time 29:718962885 
+OSS: Moving process with pid 7 from queue 3 to queue 3
+OSS: Dispatching process with PID 7 from queue 3 at time 29:759062953 
+OSS: Terminating process with PID 7 after 0 nanoseconds
+OSS: Unblocking process with PID 2 at time 29:872463098
+OSS: Dispatching process with PID 2 from queue 1 at time 29:872563098 
+OSS: Terminating process with PID 2 after 0 nanoseconds
+OSS: Unblocking process with PID 3 at time 30:364563216
+OSS: Dispatching process with PID 3 from queue 1 at time 30:364663216 
+OSS: Moving process with pid 3 from queue 1 to queue 2
+OSS: Dispatching process with PID 3 from queue 2 at time 30:384763280 
+OSS: Moving process with pid 3 from queue 2 to queue 3
+OSS: Dispatching process with PID 3 from queue 3 at time 30:414863356 
+OSS: Process with PID 3 has been preempted after 1666666 nanoseconds
+OSS: Generating process with PID 2 and putting it in queue 1 at time 30:424230101
+OSS: Dispatching process with PID 2 from queue 1 at time 30:424230101 
+OSS: Moving process with pid 2 from queue 1 to queue 2
+OSS: Dispatching process with PID 2 from queue 2 at time 30:444330248 
+OSS: Moving process with pid 2 from queue 2 to queue 3
+OSS: Dispatching process with PID 2 from queue 3 at time 30:474430335 
+OSS: Moving process with pid 2 from queue 3 to queue 3
+OSS: Dispatching process with PID 2 from queue 3 at time 30:514530440 
+OSS: Terminating process with PID 2 after 0 nanoseconds
+Hey, you made it! Here's a quick stat report: 
+Average block time of the processes 15755019 nanosecodns
+Average cpu time: 3185119 nanoseconds
+Average wait of the processes 4278933402 nanoseconds
